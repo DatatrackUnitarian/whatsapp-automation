@@ -2,4 +2,4 @@ Flask
 twilio
 pymongo
 dnspython
-Gunicorn
+gunicorn
